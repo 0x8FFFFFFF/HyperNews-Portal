@@ -16,6 +16,7 @@ You will learn the basics of Django: handle data through HTTP and work with temp
 In addition, you will gain new skills working with JSON files and Python DateTime type.
 
 What you’ll do and what you’ll learn:
+
 Stage 1/5: Main page header
 Create a simple web application with the 'Coming soon' page.
 
